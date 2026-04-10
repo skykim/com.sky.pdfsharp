@@ -1,0 +1,18 @@
+{
+  "name": "com.sky.pdfsharp",
+  "displayName": "PDFSharp",
+  "version": "7.0.0-preview-1",
+  "unity": "2021.3",
+  "description": "Unity package that bundles PDFsharp 7.0.0-preview-1 and exposes a small C# wrapper for extracting lightweight text from PDFs.",
+  "keywords": [
+    "unity",
+    "pdf",
+    "pdfsharp",
+    "document",
+    "tooling"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Sky Kim"
+  }
+}
